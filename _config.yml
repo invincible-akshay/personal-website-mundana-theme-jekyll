@@ -1,13 +1,13 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Perambulations'
+description: 'Perambulations is where I will capture my random musings and travel lores and casual thoughts'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: 'nehe.dev'
-disqus: 'wip'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'demowebsite'
+email: 'anehe@cs.stonybrook.edu'
+mailchimp-list: 'https://nehe.dev'
 
 include: ["_pages"]
 permalink: /:title/
@@ -28,14 +28,6 @@ authors:
       email:          anehe@cs.stonybrook.edu
       twitter:        https://www.linkedin.com/in/akshaydnehe/
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://www.linkedin.com/in/akshaydnehe/
- 
 # Defaults
 defaults:
 

@@ -6,10 +6,6 @@ image: assets/images/online-readinglist.jpg
 ---
 This happens to be my first post because this post is the reason I took up the endeavor of overhauling my website. It was quite a journey that I'll document in a separate post. Without further ado, let's list the websites.
 
-# News
-+ [Legible News](https://legiblenews.com/)
-+ [Stratechery by Ben Thompson](https://stratechery.com/)
-
 # Leisure Reading
 + [3 Quarks Daily](https://3quarksdaily.com/)
 + [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)
@@ -20,11 +16,6 @@ This happens to be my first post because this post is the reason I took up the e
 + [Arts & Letters Daily](https://www.aldaily.com/)
 + [Open Culture](https://www.openculture.com/)
 + [Daily Cartoon, NYT](https://www.newyorker.com/cartoons/daily-cartoon)
-
-# Discontinued
-+ [LessWrong](https://www.lesswrong.com/)
-+ [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/)
-+ [Longform](https://longform.org/)
 
 # Economics
 + [Bogleheads.org](https://bogleheads.org/)
@@ -48,3 +39,12 @@ This happens to be my first post because this post is the reason I took up the e
 + [lichess.org](https://lichess.org/)
 + [Library Genesis](http://libgen.rs/)
 + [Smitten Kitchen](https://smittenkitchen.com/)
+
+# News
++ [Legible News](https://legiblenews.com/)
++ [Stratechery by Ben Thompson](https://stratechery.com/)
+
+# Discontinued
++ [LessWrong](https://www.lesswrong.com/)
++ [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/)
++ [Longform](https://longform.org/)
