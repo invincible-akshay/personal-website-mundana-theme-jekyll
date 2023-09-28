@@ -1,13 +1,13 @@
 # Site
 name: 'Perambulations'
-description: 'Perambulations is where I will capture my random musings and travel lores and casual thoughts'
+description: 'Perambulations is where I will capture my random musings, travel lores and casual thoughts'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: 'nehe.dev'
 disqus: 'demowebsite'
 email: 'anehe@cs.stonybrook.edu'
-mailchimp-list: 'https://nehe.dev'
+# mailchimp-list: 'https://nehe.dev'
 
 include: ["_pages"]
 permalink: /:title/
