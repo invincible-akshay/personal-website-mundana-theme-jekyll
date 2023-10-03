@@ -2,7 +2,7 @@
 layout: post
 title:  "Kathakali - a harmonious triad of dance, music and prose!"
 categories: [ Culture, Experiences ]
-image: assets/images/kathakali-header2.jpg
+image: assets/images/kathakali-header.jpg
 imageCopyright: Photo by <a href="https://unsplash.com/@itsananthakrishnan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anantha Krishnan</a> on <a href="https://unsplash.com/photos/a-couple-of-people-that-are-standing-in-the-street-LR3G5QMA80I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags: featured
 ---
