@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Online Reading List!"
+title:  "Online Reading List"
 categories: [ ReadingLists ]
 image: assets/images/online-readinglist.jpg
+imageCopyright: Photo by <a href="https://unsplash.com/@sincerelymedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sincerely Media</a> on <a href="https://unsplash.com/photos/ylveRpZ8L1s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+tags: featured
 ---
 This happens to be my first post because this post is the reason I took up the endeavor of overhauling my website. It was quite a journey that I'll document in a separate post. Without further ado, let's list the websites.
 
