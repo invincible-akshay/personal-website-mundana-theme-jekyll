@@ -6,7 +6,7 @@ image: assets/images/kathakali-header.jpg
 imageCopyright: Photo by <a href="https://unsplash.com/@itsananthakrishnan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anantha Krishnan</a> on <a href="https://unsplash.com/photos/a-couple-of-people-that-are-standing-in-the-street-LR3G5QMA80I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags: featured
 ---
-I recently had the fortune of attending a Kathakali performance. It was a first for me. I went with high expectations and was pleasantly surprised to learn more than I expected.
+I recently had the fortune of attending a Kathakali performance. It was a first for me. Thanks to my wife (who hails from Kerala) for introducing me to this intricate art form. I went with high expectations and was pleasantly surprised to learn more than I expected.
 
 For the uninitiated like me, in my middle school History textbooks I had learned that [Kathakali](https://en.wikipedia.org/wiki/Kathakali) is a dance form, among other renowned dance forms in India. The books mentioned only in context of dance but in reality it is so much more. It is closer to a play with equal importance for the prose and the musicians.
 >With roots in Kerala, the plays are written in Sanskritized Malayalam. 
